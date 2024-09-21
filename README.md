@@ -55,3 +55,7 @@ où :
 ![Formule sinusoïde](https://latex.codecogs.com/svg.image?\color{white}y=A*sin(2\pi*f*t%20+%20\phi))
 ![Formule sinusoïde](https://latex.codecogs.com/png.image?\inline&space;\dpi{300}&space;y=A*sin(2\Pi*f*t*\phi))
 
+https://www.alt-codes.net/  
+For special char
+
+y = A * sin(2π * ƒ * ƒ * t + φ)
