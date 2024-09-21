@@ -63,5 +63,5 @@ For special char
 
 
 
-salut ça va ?!<br/>
+salut ça va ?<br/>
 oui
