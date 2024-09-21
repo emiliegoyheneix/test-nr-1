@@ -1,0 +1,28 @@
+pour avoir toutes les commandes
+git
+
+Pour cloner un ficher ou dossier
+git clone
+ça le clone la ou tu te trouves
+
+pour ce deplacer dans tes dossier
+cd
+
+pour ouvrir le code dans visual studio code
+code .
+
+pour savoir si des modif on etait faite
+git status
+
+pour envoyer les modif
+git add .		# ajoute toutes la hierarchy
+git add README.md	# ajoute un dossier ou ficheir specifique
+
+Pour envoyé sur github(un peu comme une file d'attente)
+git commit -m "les changements apporté"
+
+Pour l'envoyer sur github
+git push
+
+Pour recupere un code
+git pull origin main
