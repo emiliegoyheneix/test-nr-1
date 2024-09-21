@@ -51,4 +51,5 @@ où :
 - t est le temps,
 - φ est le déphasage.
 
-![Formule sinusoïde]((https://latex.codecogs.com/svg.image?&space;y=A*sin(2\Pi*f*t*\phi)))
+![Formule sinusoïde](https://latex.codecogs.com/svg.image?y=A*sin(2\pi*f*t%20+%20\phi))
+
