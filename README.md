@@ -59,3 +59,9 @@ https://www.alt-codes.net/
 For special char
 
 *y = A * sin(2π * ƒ * t + φ)*
+
+
+
+
+salut ça va ?
+oui
