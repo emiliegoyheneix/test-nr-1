@@ -52,4 +52,5 @@ où :
 - φ est le déphasage.
 
 ![Formule sinusoïde](https://latex.codecogs.com/svg.image?y=A*sin(2\pi*f*t%20+%20\phi))
+![Formule sinusoïde](https://latex.codecogs.com/png.image?\dpi{110}&space;y=A*sin(2\Pi*f*t*\phi))
 
