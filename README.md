@@ -34,3 +34,8 @@ test
 
 
 [![Logo GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com)
+
+
+***Texte en très gras*** ou ___Texte en très gras___
+
+<strong><em>Texte en très gras</em></strong>
