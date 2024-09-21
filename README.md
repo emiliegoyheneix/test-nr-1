@@ -39,3 +39,14 @@ test
 ***Texte en très gras*** ou ___Texte en très gras___
 
 <strong><em>Texte en très gras</em></strong>
+
+
+La formule d'une sinusoïde est donnée par :
+
+y = A * sin(2π * f * t + φ)
+
+où :
+- A est l'amplitude,
+- f est la fréquence,
+- t est le temps,
+- φ est le déphasage.
